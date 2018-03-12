@@ -8,11 +8,21 @@
 title: Yukun Feng's Homepage
 layout: page
 ---
-<h1 id="about">About</h1>
-I expect to be a master student working with Prof. xx in April at Tokyo Institute of Techonology.
-Before that I was a full-time R & D engieer in China. I'm interested in natural language processing
-and machine learning. In my master study, I will focus on text summarization and generation. I'm
-also interested in lexical semantics and industrial scale language modeling.<br>
+<div>
+    <div style="float:left; clear: both;" align="center">
+        <img src="./files/me.jpg" width="200" height="250" alt="" hspace="8">
+        <br /> 
+        <h1>冯 钰 坤</h1>
+    </div>
+    <div style="left: 35px; position:relative">
+        <h1 id="about">About</h1>
+        I expect to be a master student working with Prof. xx in April at Tokyo Institute of Techonology.
+        Before that I was a full-time R & D engieer in China. I'm interested in natural language processing
+        and machine learning. In my master study, I will focus on text summarization and generation. I'm
+        also interested in lexical semantics and industrial scale language modeling.
+    </div>
+</div>
+<div style="clear:both"></div>
 
 <br>
 <h1 id="education">Education</h1>
