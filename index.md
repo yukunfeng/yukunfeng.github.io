@@ -16,10 +16,10 @@ layout: page
     </div>
     <div style="left: 35px; position:relative">
         <h1 id="about">About</h1>
-        I am a master student working with Prof. xx in April at Tokyo Institute of Techonology.
+        I'm a master student working with Prof. <a href="http://www.lr.pi.titech.ac.jp/~takamura/">Hiroya Takamura</a> at Tokyo Institute of Techonology.
         Before that I was a full-time R & D engieer in China. I'm interested in natural language processing
-        and machine learning. In my master study, I will focus on text summarization and generation. I'm
-        also interested in lexical semantics and industrial scale language modeling.
+        and machine learning. In my master study, I will focus on text summarization and generation. I am
+        also interested in lexical semantics and have some industrial experiences on language modeling.
     </div>
 </div>
 <div style="clear:both"></div>
@@ -27,7 +27,7 @@ layout: page
 <br>
 <h1 id="education">Education</h1>
 - 2018.4 - present: Master student, Tokyo Institute of Techonology
-- 2012.9 - 2016.7: Beijing Language and Culture University
+- 2012.9 - 2016.7: Got my bachelor's degree, Beijing Language and Culture University
 
 <br>
 <h1 id="work">Work Experience</h1>
@@ -40,7 +40,7 @@ layout: page
 
 #### Conference Papers
 
-1. **Yukun Feng**, Dong Yu, Jian Xu and Chunhua Liu, [Semantic Frame Labeling with Target-based Neural Model”](http://www.aclweb.org/anthology/S17-1010), *Sixth Joint Conference on Lexical and Computational Semantics (\*SEM 2017), co-located with ACL 2017 (acc. rate 36%).*
+1. **Yukun Feng**, Dong Yu, Jian Xu and Chunhua Liu, [Semantic Frame Labeling with Target-based Neural Model](http://www.aclweb.org/anthology/S17-1010), *Sixth Joint Conference on Lexical and Computational Semantics (\*SEM 2017), co-located with ACL 2017 (acc. rate 36%).*
 
 <br>
 #### Workshop Papers
@@ -53,4 +53,4 @@ layout: page
 <h1 id="awards">Awards</h1>
 - NAACL Student Scholarship, 2016
 - Outstanding Graduate of Beijing Language and Culture University, 2016
-- National Endeavor Fellowship (3 Times, Top 5%), 2013 - 2015
+- National Endeavor Fellowship (3 Times, Top 6%), 2013 - 2015
