@@ -10,7 +10,7 @@ layout: page
 ---
 <div>
     <div style="float:left; clear: both;" align="center">
-        <img src="./files/me.jpg" width="250" height="250" alt="" hspace="8">
+        <img src="./files/me.jpg" width="241" height="250" alt="" hspace="8">
         <br /> 
         <h1>冯 钰 坤</h1>
     </div>
@@ -31,7 +31,7 @@ layout: page
 
 <br>
 <h1 id="work">Work Experience</h1>
-- 2017.2 - 2018.3: Assistant Researcher, Speech Technology Department, Sogou Inc.
+- 2017.2 - 2018.3: R & D Engineer, Speech Technology Department, Sogou Inc.
 - 2016.7 - 2017.2: R & D Engineer, Speech Technology Department, Baidu Inc.
 - 2015.5 - 2016.2: R & D Engineer Intern, Speech Technology Department, Baidu Inc.
 
@@ -54,3 +54,9 @@ layout: page
 - NAACL Student Scholarship, 2016
 - Outstanding Graduate of Beijing Language and Culture University, 2016
 - National Endeavor Fellowship (3 Times, Top 6%), 2013 - 2015
+
+<br>
+<h1 id="miscellaneous">Miscellaneous</h1>
+- I like watching Japanese animation.
+- I also enjoy playing table tennis.
+- I ever wrote some Chinese [blogs](https://blog.csdn.net/a635661820) to help myself learn and memorize some machine learning methods. And now it has been visited more than 160 thousand times. But now I haven't maintained it for a long time.
