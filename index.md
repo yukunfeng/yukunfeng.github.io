@@ -24,6 +24,7 @@ layout: page
 </div>
 <div style="clear:both"></div>
 
+
 <br>
 <h1 id="education">Education</h1>
 - 2018.4 - present: Master student, Tokyo Institute of Techonology
@@ -60,3 +61,8 @@ layout: page
 - I like watching Japanese animation.
 - I also enjoy playing table tennis.
 - I ever wrote some Chinese [blogs](https://blog.csdn.net/a635661820) to help myself learn and memorize some machine learning methods. And now it has been visited more than 160 thousand times. But now I haven't maintained it for a long time.
+
+
+<br>
+<h1 id="contact">Contact</h1>
+yukunfg at gmail.com 
