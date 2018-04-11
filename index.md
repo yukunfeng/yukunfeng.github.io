@@ -6,7 +6,6 @@
 #
 #layout: home
 title: Yukun Feng's Homepage
-google_analytics: UA-117359485-1
 layout: page
 ---
 <div>
