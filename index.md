@@ -60,7 +60,7 @@ layout: page
 <h1 id="miscellaneous">Miscellaneous</h1>
 - I like watching Japanese animation.
 - I also enjoy playing table tennis.
-- I ever wrote some Chinese [blogs](https://blog.csdn.net/a635661820) to help myself learn and memorize some machine learning methods. And now it has been visited more than 160 thousand times. But now I haven't maintained it for a long time.
+- I ever wrote some Chinese [blogs](https://blog.csdn.net/a635661820) to help myself learn and memorize some machine learning methods. But now I haven't maintained it for a long time.
 
 
 <br>
