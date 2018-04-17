@@ -18,7 +18,7 @@ layout: page
         <h1 id="about">About</h1>
         I'm a master student working with Prof. <a href="http://www.lr.pi.titech.ac.jp/~takamura/">Hiroya Takamura</a> at Tokyo Institute of Techonology.
         Before that I was a full-time R & D engieer in China. I'm interested in natural language processing
-        and machine learning. In my master study, I will focus on text summarization and generation. I am
+        and machine learning. In my master study, I will focus on text generation. I am
         also interested in lexical semantics and have some industrial experiences on language modeling.
     </div>
 </div>
