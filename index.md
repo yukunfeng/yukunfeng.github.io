@@ -16,10 +16,7 @@ layout: page
     </div>
     <div style="left: 35px; position:relative">
         <h1 id="about">About</h1>
-        I'm a master student working with Prof. <a href="http://www.lr.pi.titech.ac.jp/~takamura/">Hiroya Takamura</a> at Tokyo Institute of Techonology.
-        Before that I was a full-time R & D engieer in China. I'm interested in natural language processing
-        and machine learning. In my master study, I will focus on text generation. I am
-        also interested in lexical semantics and have some industrial experiences on language modeling.
+        I'm a master student at <a href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura Lab</a> at Tokyo Institute of Techonology.  Before that I was a full-time R & D engieer in China working on natural language processing tasks. I am interested in neural language model and I also work on data-to-text generation project.  Back to my undergraduate period, I also had some research experiences on lexical semantics.
     </div>
 </div>
 <div style="clear:both"></div>
@@ -40,6 +37,8 @@ layout: page
 <h1 id="publications">Publications</h1>
 
 #### Conference Papers
+
+1. Yasufumi Taniguchi, **Yukun Feng**, Hiroya Takamura and Manabu Okumura, Generating Live Soccer-Match Commentary from Play Data, *Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)*
 
 1. **Yukun Feng**, Dong Yu, Jian Xu and Chunhua Liu, [Semantic Frame Labeling with Target-based Neural Model](http://www.aclweb.org/anthology/S17-1010), *Sixth Joint Conference on Lexical and Computational Semantics (\*SEM 2017), co-located with ACL 2017 (acc. rate 36%).*
 
