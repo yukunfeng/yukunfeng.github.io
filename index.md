@@ -8,63 +8,44 @@
 title: Yukun Feng's Homepage
 layout: page
 ---
-<div>
-    <div style="float:left; clear: both;" align="center">
-        <img src="./files/me.jpg" width="241" height="250" alt="" hspace="8">
-        <br /> 
-        <h1>冯 钰 坤</h1>
-    </div>
-    <div style="left: 35px; position:relative">
-        <h1 id="about">About</h1>
-        I'm a master student at <a href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura Lab</a> at Tokyo Institute of Techonology.  Before that I was a full-time R & D engieer in China working on natural language processing tasks. I am interested in neural language model and I also work on data-to-text generation project.  Back to my undergraduate period, I also had some research experiences on lexical semantics.
-    </div>
-</div>
-<div style="clear:both"></div>
 
+<p style="color:black;font-size:21px;font-weight:Semibold">About Me</p>
+I'm a master student at <a href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura Lab</a> at
+Tokyo Institute of Technology.  My current research topics are neural language model (particularly
+character-aware language model) and word
+representation learning. My email is x@gmail.com  where x is yukunfg
 
 <br>
-<h1 id="education">Education</h1>
-- 2018.4 - present: Master student, Tokyo Institute of Techonology
+
+<p style="color:black;font-size:21px;font-weight:Semibold">Education</p>
+- 2018.4 - present: Master student, Tokyo Institute of Technology
 - 2012.9 - 2016.7: Got my bachelor's degree, Beijing Language and Culture University
 
 <br>
-<h1 id="work">Work Experience</h1>
+
+<p style="color:black;font-size:21px;font-weight:Semibold">Work Experience</p>
 - 2017.2 - 2018.3: R & D Engineer, Speech Technology Department, Sogou Inc.
 - 2016.7 - 2017.2: R & D Engineer, Speech Technology Department, Baidu Inc.
 - 2015.5 - 2016.2: R & D Engineer Intern, Speech Technology Department, Baidu Inc.
 
 <br>
-<h1 id="publications">Publications</h1>
 
-#### Conference Papers
+<p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
 
-1. Yasufumi Taniguchi, **Yukun Feng**, Hiroya Takamura and Manabu Okumura, Generating Live Soccer-Match Commentary from Play Data, *Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)*
+<p style="color:black;font-size:19px;font-weight:Semibold">Conference Papers</p>
 
-1. **Yukun Feng**, Dong Yu, Jian Xu and Chunhua Liu, [Semantic Frame Labeling with Target-based Neural Model](http://www.aclweb.org/anthology/S17-1010), *Sixth Joint Conference on Lexical and Computational Semantics (\*SEM 2017), co-located with ACL 2017 (acc. rate 36%).*
+1. **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, A Simple and Effective
+   Method for Injecting Word-level Information into Character-aware Neural Language Models, *the
+   SIGNLL Conference on Computational Natural Language Learning 2019 (CoNLL 2019)* [paper and code
+   coming soon].
 
+1. Yasufumi Taniguchi, **Yukun Feng**, Hiroya Takamura and Manabu Okumura, [Generating Live Soccer-Match Commentary from Play Data](https://www.aaai.org/ojs/index.php/AAAI/article/view/4691), *Thirty-Third AAAI Conference on Artificial Intelligence (AAAI 2019)*.
+
+1. **Yukun Feng**, Dong Yu, Jian Xu and Chunhua Liu, [Semantic Frame Labeling with Target-based Neural Model](http://www.aclweb.org/anthology/S17-1010), *Sixth Joint Conference on Lexical and Computational Semantics (\*SEM 2017), co-located with ACL 2017*.
 <br>
-#### Workshop Papers
+<p style="color:black;font-size:19px;font-weight:Semibold">Workshop Papers</p>
 
 1. **Yukun Feng**, Yipei Xu and Dong Yu, [An end-to-end approach to learning semantic frames with feedforward neural network](https://www.aclweb.org/anthology/N/N16/N16-2001.pdf), *NAACL 2016 Student Research Workshop, (Undergraduate Track)*.
 
-1. **Yukun Feng**, Qiao Deng, and Dong Yu, [BLCUNLP: Corpus Pattern Analysis for Verbs Based on Dependency Chain ](https://aclweb.org/anthology/S/S15/S15-2054.pdf), *NAACL 2015 Workshop on Semantic Evaluation (SemEval-2015)*.  
+1. **Yukun Feng**, Qiao Deng, and Dong Yu, [BLCUNLP: Corpus Pattern Analysis for Verbs Based on Dependency Chain ](https://aclweb.org/anthology/S/S15/S15-2054.pdf), *NAACL 2015 Workshop on Semantic Evaluation (SemEval-2015)*.
 
-<br>
-<h1 id="awards">Awards</h1>
-- NAACL Student Scholarship, 2016
-- Outstanding Graduate of Beijing Language and Culture University, 2016
-- National Endeavor Fellowship (3 Times, Top 6%), 2013 - 2015
-
-<br>
-<h1 id="miscellaneous">Miscellaneous</h1>
-- I like watching Japanese animation.
-- I also enjoy playing table tennis.
-- I ever wrote some Chinese [blogs](https://blog.csdn.net/a635661820) to help myself learn and memorize some machine learning methods. But now I haven't maintained it for a long time.
-
-
-<br>
-<h1 id="contact">Contact</h1>
-yukunfg at gmail.com 
-
-<br>
-<a href="https://info.flagcounter.com/CCqM"><img src="https://s11.flagcounter.com/count2/CCqM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
