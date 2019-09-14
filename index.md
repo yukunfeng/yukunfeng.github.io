@@ -14,7 +14,7 @@ layout: page
 .underline
 {
     color:inherit;
-    border-bottom: solid 1px #A6ACAF;
+    border-bottom: solid 1px #E6E6E6;
 }
 </style>
 
