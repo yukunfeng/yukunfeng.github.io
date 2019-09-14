@@ -1,0 +1,81 @@
+----
+I don’t understand the logic here.
+“As most of these infrequent words appear only a few times, these embeddings will not be updated far away from each other, as we will show in our experiments later. As a result, these embeddings for infrequent words become more reliable.”
+First of all, are you talking about the phase of embedding learning, or the phase of fine-tuning?
+
+Sensei, here is for phase of fine-tuning. We have context for refering this. Before the current
+sentence, we have:
+"During the fine-tuning process for a downstream task, the embeddings of infrequent words are first initialized with the embeddings of
+their cluster."
+
+------
+“AvgIn can improve the performance on 3 datasets in all-word-pair group when applying with ReOut.”
+Are you comparing AvgIn+ReOut with what?
+
+Sensei, I write it like this:
+AvgIn+ReOut improve the performance on 3 datasets in all-word-pairs group compared with AvgIn.
+
+-----
+We also did so for CBOW. ”
+Vague (what did you do?) , and too colloquial.
+
+Sensei, I write it like this:
+Similarly, we also get LM results using embeddings produced from CBOW.
+
+
+“two low-resource language pairs: German-English (de-en) and English-Vietnamese (en-vi).”
+They are probably not low-resource language pairs. In particular, de-en is one of the most resource-rich language pairs.
+You might want to do experiments under low-resource setting. Any justification of using low-resource setting when evaluating our method?
+“We used the opennmt-py toolkit with a 2-layer bidirectional LSTM with hidden size of 500 and set the training epoch to 30.  We used a 2-layer bidirectional LSTM with 500 hidden units for both encoder and decoder. ”
+Did you write the same thing twice???
+
+Sensei, I already removed "low-resource" before "language pairs".
+Sorry that I did write twice and I removed one.
+
+In section "Experiments on LM and MT", I already made following justification
+"In this paper, we limit the applications of our model to relatively small datasets to demonstrate
+the usefulness of our method. We plan to conduct larger-scale experiments on more downstream tasks
+in future work."
+
+------
+Paper ID: 10193
+Natural Language Processing (NLP), NLP: Natural Language Processing (General/Other)
+
+
+“To save time, we did not use all of 8 LM datasets and selected only en and de.”
+time for what?
+
+Sensei, I modified like this:
+In this section, we analyse ReIn+ReOut on the basis of LM experiments on en and de datasets.
+
+-----
+Effect of CBOW section is very hard to understand.
+Although the title mentions CBOW, the text body does not mention CBOW even once.
+Table 8 and Table 10 look similar. Both have random initialization. Are they the same thing? Otherwise, what is the difference?
+
+Sensei, I changed the title to: "Effect of Training of Word Embeddings"
+
+They are different in Table 8 and Table 9. Sensei, the definitions of Random are in separate subsection.
+I will add following sentence in second subsection.
+"Note here Random in Table 10 is different from the one in Table 9 where we map a word to a random cluster
+"
+
+------
+in visualization, the embeddings are fine-tuned for what?
+“The training will be more efficient if we increase the number of negative samples but training the model will also take a longer time.”
+this sounds like a contradiction.
+maybe you wanted to write “effective”?
+
+--
+in visualization, the embeddings are fine-tuned for LM tasks.
+sensei, I will change "efficient" to effective
+
+----
+“these embeddings for infrequent words become more reliable”
+Why can you draw this conclusion? from the fact that the embeddings are close to each other.
+
+Sensei, we mentioned these infrequent word embeddings will be same in the beginning. After
+fine-tuning, they are still close to each other because most of them appear  a few times. 
+
+Originally, some infrequent word embeddings are updated only several times and are not far away from
+where they were randomly initialized, and now they become more reliable.
