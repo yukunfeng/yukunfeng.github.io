@@ -35,15 +35,15 @@ representation learning. My email is x@gmail.com  where x is yukunfg
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Internship</p>
 - 2019.11 - 2020.02: Research Intern, <a id="link" class="underline"
-  href="https://ai.google/">Google Research</a>, Mountain View, California.
+  href="https://ai.google/">Google AI</a>, Mountain View, California.
 - 2015.05 - 2016.02: R & D Intern, <a id="link" class="underline"
-  href="https://ai.baidu.com/tech/speech">Speech Technology Department</a>, Baidu Inc.
+  href="https://ai.baidu.com/tech/speech">Speech Technology Department</a>, Baidu Inc., Beijing.
 
 <br>
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Work Experience</p>
-- 2017.02 - 2018.03: R & D Engineer, Speech Technology Department, Sogou Inc.
-- 2016.07 - 2017.02: R & D Engineer, Speech Technology Department, Baidu Inc.
+- 2017.02 - 2018.03: R & D Engineer, Speech Technology Department, Sogou Inc., Beijing.
+- 2016.07 - 2017.02: R & D Engineer, Speech Technology Department, Baidu Inc., Beijing.
 
 <br>
 
