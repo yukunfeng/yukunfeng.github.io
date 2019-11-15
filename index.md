@@ -51,9 +51,11 @@ representation learning. My email is x@gmail.com  where x is yukunfg
 
 <p style="color:black;font-size:19px;font-weight:Semibold">Conference Papers</p>
 
-1. **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, A Simple and Effective
-   Method for Injecting Word-level Information into Character-aware Neural Language Models, *the
-   SIGNLL Conference on Computational Natural Language Learning 2019 (CoNLL 2019)* <a id="link"
+1. **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
+<a id="link" class="underline" href="https://www.aclweb.org/anthology/K19-1086.pdf"> A Simple and
+Effective Method for Injecting Word-level Information into Character-aware Neural Language Models,
+</a> *the SIGNLL Conference on Computational Natural Language Learning 2019 (CoNLL 2019)* <a
+   id="link"
    class="underline" href="https://github.com/yukunfeng/char_word_lm">[code]</a> <a id="link"
    class="underline"
    href="https://drive.google.com/open?id=1-cyCAFCp_5Qownhe53YbvnUZ7MdJ1Vs6">[poster]</a>.
