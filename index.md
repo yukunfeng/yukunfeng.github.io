@@ -26,7 +26,6 @@ character-aware language model) and word
 representation learning. My email is x@gmail.com  where x is yukunfg
 
 <br>
-
 <p style="color:black;font-size:21px;font-weight:Semibold">Education</p>
 - 2018.4 - present: Master student, Tokyo Institute of Technology
 - 2012.9 - 2016.7: Got my bachelor's degree, Beijing Language and Culture University
@@ -34,9 +33,9 @@ representation learning. My email is x@gmail.com  where x is yukunfg
 <br>
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Internship</p>
-- 2019.11 - 2020.02: Research Intern, Google AI, Mountain View, California.
+- 2019.11 - 2020.02: Research Intern, Google Research, Mountain View, CA.
+    - Hosts: <a id="link" class="underline" href="https://www.linkedin.com/in/amir-fayazi-aba57831/">Amir Fayazi</a> and <a id="link" class="underline" href="https://www.linkedin.com/in/abhinav-rastogi-0a466934/">Abhinav Rastogi</a>
 - 2015.05 - 2016.02: R & D Intern, Speech Technology Department, Baidu Inc., Beijing.
-
 <br>
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Work Experience</p>
