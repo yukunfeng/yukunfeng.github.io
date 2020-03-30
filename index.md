@@ -20,27 +20,31 @@ layout: page
 
 
 <p style="color:black;font-size:21px;font-weight:Semibold">About Me</p>
-I'm a master student at  <a id="link" class="underline" href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura Lab</a> at
+I'm a Ph.D. student at  <a id="link" class="underline" href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura Lab</a> at
 Tokyo Institute of Technology.  My current research topics are neural language model (particularly
 character-aware language model) and word
 representation learning. My email is x@gmail.com  where x is yukunfg
 
 <br>
 <p style="color:black;font-size:21px;font-weight:Semibold">Education</p>
-- 2018.4 - present: Master student, Tokyo Institute of Technology
-- 2012.9 - 2016.7: Got my bachelor's degree, Beijing Language and Culture University
+- 2020.4 - present: Ph.D. student, Tokyo Institute of Technology
+    - Supervisor: Prof. <a id="link" class="underline" href="http://www.lr.pi.titech.ac.jp/~oku/index-e.html">Manabu Okumura</a>
+- 2018.4 - 2020.3: M.E, Tokyo Institute of Technology
+    - Supervisor: Prof. <a id="link" class="underline" href="http://www.lr.pi.titech.ac.jp/~takamura/">Hiroya Takamura</a>
+- 2012.9 - 2016.7: B.E, Beijing Language and Culture University
+    - Supervisor: Prof. <a id="link" class="underline" href="http://faculty.blcu.edu.cn/yudong">Dong Yu</a>
 
 <br>
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Internship</p>
 - 2019.11 - 2020.02: Research Intern, Google Research, Mountain View, CA.
     - Hosts: <a id="link" class="underline" href="https://www.linkedin.com/in/amir-fayazi-aba57831/">Amir Fayazi</a> and <a id="link" class="underline" href="https://www.linkedin.com/in/abhinav-rastogi-0a466934/">Abhinav Rastogi</a>
-- 2015.05 - 2016.02: R & D Intern, Speech Technology Department, Baidu Inc., Beijing.
+- 2015.05 - 2016.02: R & D Intern, Baidu Inc., Beijing, China
 <br>
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Work Experience</p>
-- 2017.02 - 2018.03: R & D Engineer, Speech Technology Department, Sogou Inc., Beijing.
-- 2016.07 - 2017.02: R & D Engineer, Speech Technology Department, Baidu Inc., Beijing.
+- 2017.02 - 2018.03: R & D Engineer, Sogou Inc., Beijing, China
+- 2016.07 - 2017.02: R & D Engineer, Baidu Inc., Beijing, China
 
 <br>
 
