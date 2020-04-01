@@ -29,9 +29,9 @@ representation learning. My email is x@gmail.com  where x is yukunfg
 <p style="color:black;font-size:21px;font-weight:Semibold">Education</p>
 - 2020.4 - present: Ph.D. student, Tokyo Institute of Technology
     - Supervisor: Prof. <a id="link" class="underline" href="http://www.lr.pi.titech.ac.jp/~oku/index-e.html">Manabu Okumura</a>
-- 2018.4 - 2020.3: M.E, Tokyo Institute of Technology
+- 2018.4 - 2020.3: M.E., Tokyo Institute of Technology
     - Supervisor: Prof. <a id="link" class="underline" href="http://www.lr.pi.titech.ac.jp/~takamura/">Hiroya Takamura</a>
-- 2012.9 - 2016.7: B.E, Beijing Language and Culture University
+- 2012.9 - 2016.7: B.E., Beijing Language and Culture University
     - Supervisor: Prof. <a id="link" class="underline" href="http://faculty.blcu.edu.cn/yudong">Dong Yu</a>
 
 <br>
