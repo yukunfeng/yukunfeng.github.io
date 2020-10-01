@@ -46,7 +46,7 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
 
-1. **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
+1. **Yukun Feng**, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
 <a id="link" class="underline" href="to_add"> A Simple and Effective Usage of Word Clusters for CBOW Model,
 </a> *The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2020)* <a
    id="link"
