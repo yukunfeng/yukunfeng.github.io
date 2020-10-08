@@ -22,12 +22,12 @@ layout: page
 <p style="color:black;font-size:21px;font-weight:Semibold">About Me</p>
 I'm a Ph.D. candidate at  <a id="link" class="underline" href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura-Funakoshi Lab</a> at
 Tokyo Institute of Technology.  My research mainly focuses on word
-representation learning, neural language model (including tranditional LM
+representation learning (such as word2vec), neural language model (including tranditional LM
 and current pretrained LM). My email is x@gmail.com  where x is yukunfg
 
 <br>
 <p style="color:black;font-size:21px;font-weight:Semibold">Education</p>
-- 2020.4 - present: Ph.D. student, Tokyo Institute of Technology
+- 2020.4 - present: Ph.D. candidate, Tokyo Institute of Technology
     - <p style="color:black;font-size:15px;font-weight:Semibold">Supervisor: Prof. <a id="link" class="underline" href="http://www.lr.pi.titech.ac.jp/~oku/index-e.html">Manabu Okumura</a></p>
 - 2018.4 - 2020.3: M.E., Tokyo Institute of Technology
     - <p style="color:black;font-size:15px;font-weight:Semibold">Supervisor: Prof. <a id="link" class="underline" href="http://www.lr.pi.titech.ac.jp/~takamura/">Hiroya Takamura</a></p>
