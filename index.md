@@ -52,7 +52,7 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
    id="link"
    class="underline" href="https://github.com/yukunfeng/cluster-cbow">[code]</a> <a id="link"
    class="underline"
-   href="to_add">[poster]</a>.
+   href="https://drive.google.com/file/d/1gBbIraugOFfa2G0w2r-V2a7NGoZVRGQO/view?usp=sharing">[slide]</a>.
 
 - **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
 <a id="link" class="underline" href="https://www.aclweb.org/anthology/K19-1086.pdf"> A Simple and
