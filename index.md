@@ -47,7 +47,7 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
 <p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
 
 - **Yukun Feng**, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
-<a id="link" class="underline" href="to_add"> A Simple and Effective Usage of Word Clusters for CBOW Model,
+<a id="link" class="underline" href="https://www.aclweb.org/anthology/2020.aacl-main.10.pdf"> A Simple and Effective Usage of Word Clusters for CBOW Model,
 </a> *The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2020)* <a
    id="link"
    class="underline" href="https://github.com/yukunfeng/cluster-cbow">[code]</a> <a id="link"
