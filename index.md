@@ -41,6 +41,8 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
     - <p style="color:black;font-size:15px;font-weight:Semibold"> Hosts: <a id="link" class="underline" href="https://www.linkedin.com/in/amir-fayazi-aba57831/">Amir Fayazi</a> and <a id="link" class="underline" href="https://www.linkedin.com/in/abhinav-rastogi-0a466934/">Abhinav Rastogi</a> </p>
 - 2017.02 - 2018.03: R & D Engineer, Sogou Inc., Beijing, China
 - 2015.08 - 2017.02: R & D Intern/Engineer, Baidu Inc., Beijing, China
+    - <p style="color:black;font-size:15px;font-weight:Semibold"> Intern: 5/2015-07/2016, Full-time: 7/2016-02/2017 
+
 
 <br>
 
