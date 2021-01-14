@@ -48,6 +48,10 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
 
+- Chenlong Hu, **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
+<a id="link" class="underline" href="to_add">One-class Text Classification with Multi-Modal Deep Support Vector Data Description,
+</a> *The European Chapter of the Association for Computational Linguistics (EACL 2021).*
+
 - **Yukun Feng**, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
 <a id="link" class="underline" href="https://www.aclweb.org/anthology/2020.aacl-main.10.pdf"> A Simple and Effective Usage of Word Clusters for CBOW Model,
 </a> *The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP 2020)* <a
