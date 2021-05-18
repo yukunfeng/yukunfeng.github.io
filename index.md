@@ -48,6 +48,10 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
 
+- Yijin Xiong, **Yukun Feng**, Hao Wu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
+<a id="link" class="underline" href="to_add">Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification,
+</a> *In Findings of the Association for Computational Linguistics (ACL-IJCNLP 2021 Findings)*
+
 - Chenlong Hu, **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
 <a id="link" class="underline" href="to_add">One-class Text Classification with Multi-Modal Deep Support Vector Data Description,
 </a> *The European Chapter of the Association for Computational Linguistics (EACL 2021).*
