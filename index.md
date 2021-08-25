@@ -22,8 +22,7 @@ layout: page
 <p style="color:black;font-size:21px;font-weight:Semibold">About Me</p>
 I'm a Ph.D. candidate at  <a id="link" class="underline" href="http://lr-www.pi.titech.ac.jp/wp/">Okumura-Takamura-Funakoshi Lab</a> at
 Tokyo Institute of Technology.  My research mainly focuses on word
-representation learning (such as word2vec), neural language model (including tranditional LM
-and current pretrained LM). My email is x@gmail.com  where x is yukunfg
+representation learning (such as word2vec) and neural language model. My email is x@gmail.com  where x is yukunfg
 
 <br>
 <p style="color:black;font-size:21px;font-weight:Semibold">Education</p>
@@ -47,6 +46,14 @@ and current pretrained LM). My email is x@gmail.com  where x is yukunfg
 <br>
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
+
+- **Yukun Feng**, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
+<a id="link" class="underline" href="to_add"> Improving Character-Aware Neural Language Model by Warming Up Character Encoder under Skip-gram Architecture,
+</a> *The International Conference Recent Advances in Natural Language Processing (RANLP 2021)* <a
+   id="link"
+   class="underline" href="https://github.com/yukunfeng/warmup_char_lm">[code]</a> <a id="link"
+   class="underline"
+   href="to_add">[slide]</a>.
 
 - Yijin Xiong, **Yukun Feng**, Hao Wu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
 <a id="link" class="underline" href="to_add">Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification,
