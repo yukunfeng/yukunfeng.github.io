@@ -53,14 +53,14 @@ representation learning (such as word2vec) and neural language model. My email i
    id="link"
    class="underline" href="https://github.com/yukunfeng/warmup_char_lm">[code]</a> <a id="link"
    class="underline"
-   href="to_add">[slide]</a>.
+   href="https://drive.google.com/file/d/1ltz5H5bh05XYbNpWMXW_00vKLFfi-1bg/view?usp=sharing">[slide]</a>.
 
 - Yijin Xiong, **Yukun Feng**, Hao Wu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
-<a id="link" class="underline" href="to_add">Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification,
+<a id="link" class="underline" href="https://aclanthology.org/2021.findings-acl.152.pdf">Fusing Label Embedding into BERT: An Efficient Improvement for Text Classification,
 </a> *In Findings of the Association for Computational Linguistics (ACL-IJCNLP 2021 Findings)*
 
 - Chenlong Hu, **Yukun Feng**, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
-<a id="link" class="underline" href="to_add">One-class Text Classification with Multi-Modal Deep Support Vector Data Description,
+<a id="link" class="underline" href="https://aclanthology.org/2021.eacl-main.296.pdf">One-class Text Classification with Multi-Modal Deep Support Vector Data Description,
 </a> *The European Chapter of the Association for Computational Linguistics (EACL 2021).*
 
 - **Yukun Feng**, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
