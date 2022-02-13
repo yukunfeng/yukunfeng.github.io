@@ -37,7 +37,7 @@ representation learning (such as word2vec) and neural language model. My email i
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Work Experience</p>
 - 2022.04 - 2022.09: Applied Scitienst Intern, Amazon Alexa AI, Cambrdige, UK. 
-    - <p style="color:black;font-size:15px;font-weight:Semibold"> Host: <a id="link" class="underline" href="https://scholar.google.co.uk/citations?user=4qU3GDIAAAAJ&hl=en">Andrea Pierleoni</a> </p>
+    - <p style="color:black;font-size:15px;font-weight:Semibold"> Manager: <a id="link" class="underline" href="https://www.linkedin.com/in/andreapierleoni/">Andrea Pierleoni</a> </p>
 - 2019.11 - 2020.02: Research Intern, Google Research, Mountain View, U.S.
     - <p style="color:black;font-size:15px;font-weight:Semibold"> Hosts: <a id="link" class="underline" href="https://www.linkedin.com/in/amir-fayazi-aba57831/">Amir Fayazi</a> and <a id="link" class="underline" href="https://www.linkedin.com/in/abhinav-rastogi-0a466934/">Abhinav Rastogi</a> </p>
 - 2017.02 - 2018.03: R & D Engineer, Sogou Inc., Beijing, China
