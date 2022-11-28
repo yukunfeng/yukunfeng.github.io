@@ -34,12 +34,11 @@ representation learning (such as word2vec) and neural language model. My email i
     - <p style="color:black;font-size:15px;font-weight:Semibold">Supervisor: Prof. <a id="link" class="underline" href="http://faculty.blcu.edu.cn/yudong">Dong Yu</a></p>
 
 <br>
-
 <p style="color:black;font-size:21px;font-weight:Semibold">Work Experience</p>
 - 2022.04 - 2022.09: Applied Scitienst Intern, Amazon Alexa AI, Cambrdige, UK
-    - <p style="color:black;font-size:15px;font-weight:Semibold"> Manager: <a id="link" class="underline" href="https://www.linkedin.com/in/andreapierleoni/">Andrea Pierleoni</a> </p>
+    - <p style="color:black;font-size:15px;font-weight:Semibold"> Mentor and manager: <a id="link" class="underline" href="https://www.linkedin.com/in/tom-ayoola/">Tom Ayoola</a>, <a id="link" class="underline" href="https://www.linkedin.com/in/andreapierleoni/">Andrea Pierleoni</a> </p>
 - 2019.11 - 2020.02: Research Intern, Google Research, Mountain View, U.S.
-    - <p style="color:black;font-size:15px;font-weight:Semibold"> Hosts: <a id="link" class="underline" href="https://www.linkedin.com/in/amir-fayazi-aba57831/">Amir Fayazi</a> and <a id="link" class="underline" href="https://www.linkedin.com/in/abhinav-rastogi-0a466934/">Abhinav Rastogi</a> </p>
+    - <p style="color:black;font-size:15px;font-weight:Semibold"> Hosts: <a id="link" class="underline" href="https://www.linkedin.com/in/amir-fayazi-aba57831/">Amir Fayazi</a>, <a id="link" class="underline" href="https://www.linkedin.com/in/abhinav-rastogi-0a466934/">Abhinav Rastogi</a> </p>
 - 2017.02 - 2018.03: R & D Engineer, Sogou Inc., Beijing, China
 - 2015.08 - 2017.02: R & D Intern/Engineer, Baidu Inc., Beijing, China
     - <p style="color:black;font-size:15px;font-weight:Semibold"> Intern: 5/2015-07/2016, Full-time: 7/2016-02/2017 
@@ -49,8 +48,15 @@ representation learning (such as word2vec) and neural language model. My email i
 
 <p style="color:black;font-size:21px;font-weight:Semibold">Publications</p>
 
+- **Yukun Feng**, Amir Fayazi, Abhinav Rastogi and Manabu Okumura, 
+<a id="link" class="underline" href="https://aclanthology.org/2022.findings-aacl.1.pdf">”Efficient Entity Embedding Con-
+struction from Type Knowledge for BERT”,
+</a> *Findings of The Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP Findings 2020)* <a
+   id="link"
+   class="underline" href="https://github.com/yukunfeng/efficient_bert_ent_emb">[code]</a>
+
 - **Yukun Feng**, Chenlong Hu, Hidetaka Kamigaito, Hiroya Takamura and Manabu Okumura, 
-<a id="link" class="underline" href="to_add"> Improving Character-Aware Neural Language Model by Warming Up Character Encoder under Skip-gram Architecture,
+<a id="link" class="underline" href="https://aclanthology.org/2021.ranlp-1.48.pdf"> Improving Character-Aware Neural Language Model by Warming Up Character Encoder under Skip-gram Architecture,
 </a> *The International Conference Recent Advances in Natural Language Processing (RANLP 2021)* <a
    id="link"
    class="underline" href="https://github.com/yukunfeng/warmup_char_lm">[code]</a> <a id="link"
